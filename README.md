@@ -1,4 +1,3 @@
-# Paul DeBruicker
 ## About Me
 
 I'm Paul DeBruicker, an experienced software engineer, product manager, and entrepreneur based in Portland, OR. I have over 15 years of experience building and launching SaaS products from concept to market.
